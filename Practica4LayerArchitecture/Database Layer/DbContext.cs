@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Database_Layer
 {
-    public class DbContext
+    public class DbContext : IDbContext
     {
         //acceso a la base de datos
         //referencias a las tablas de la base de datos

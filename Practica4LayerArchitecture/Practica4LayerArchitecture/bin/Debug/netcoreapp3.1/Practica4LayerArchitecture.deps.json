@@ -321,7 +321,18 @@
           "Practica4LayerArchitecture.dll": {}
         }
       },
+      "Database Layer/1.0.0": {
+        "runtime": {
+          "Database Layer.dll": {}
+        },
+        "compile": {
+          "Database Layer.dll": {}
+        }
+      },
       "Logic Layer/1.0.0": {
+        "dependencies": {
+          "Database Layer": "1.0.0"
+        },
         "runtime": {
           "Logic Layer.dll": {}
         },
@@ -2025,6 +2036,11 @@
   },
   "libraries": {
     "Practica4LayerArchitecture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Database Layer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

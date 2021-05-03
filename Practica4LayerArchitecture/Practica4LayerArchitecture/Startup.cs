@@ -1,3 +1,5 @@
+using Database_Layer;
+using Logic_Layer.Managers;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -25,6 +27,8 @@ namespace Practica4LayerArchitecture
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddTransient<IStudentManager, StudentManager>();
+            services.AddSingleton<IDbContext, DbContext>();
             services.AddControllers();
         }
 

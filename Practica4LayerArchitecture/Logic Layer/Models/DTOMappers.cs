@@ -6,7 +6,7 @@ namespace Logic_Layer.Models
 {
     public static class DTOMappers
     {
-        public static List<Student> MapStudent(List<Database_Layer.Models.Student> students)
+        public static List<Student> MapStudents(List<Database_Layer.Models.Student> students)
         {
             List<Student> mappedStudents = new List<Student>();
 

@@ -6,26 +6,28 @@ using Database_Layer;
 
 namespace Logic_Layer.Managers
 {
-    public class StudentManager
+    public class StudentManager : IStudentManager
     {
         
-        private readonly DbContext _dbContext;
-        public StudentManager()
+        private readonly IDbContext _dbContext;
+        public StudentManager(IDbContext dbContext)
         {
-            _dbContext = new DbContext();
+            _dbContext = dbContext;
         }
         public List<Student> GetAllStudents()
         {
             List<Database_Layer.Models.Student> students = _dbContext.GetAll();
-            return students;
+            // creamos el DTOMappers para evitar las ambiguedades
+            return DTOMappers.MapStudents(students);
         }
 
-        public Student CreatePerson(string studentName) // a. Create User
+        public Student CreatePerson(Student student) // a. Create User
         {
-            return new Student()
+            if (String.IsNullOrEmpty(student.Name) || student.Name.Length > 50 || student.AvailableSlots < 0) // Punto 6 practica 4
             {
-                Name = studentName
-            };
+                throw new Exception();
+            }
+            return student;
         }
 
         public Student UpdateStudent(Student student) // b. Update User
