@@ -1,0 +1,23 @@
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\bin\Debug\netcoreapp3.1\Practica4LayerArchitecture.exe
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\bin\Debug\netcoreapp3.1\Practica4LayerArchitecture.deps.json
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\bin\Debug\netcoreapp3.1\Practica4LayerArchitecture.runtimeconfig.json
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\bin\Debug\netcoreapp3.1\Practica4LayerArchitecture.runtimeconfig.dev.json
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\bin\Debug\netcoreapp3.1\Practica4LayerArchitecture.dll
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\bin\Debug\netcoreapp3.1\Practica4LayerArchitecture.pdb
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\obj\Debug\netcoreapp3.1\Practica4LayerArchitecture.csprojAssemblyReference.cache
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\obj\Debug\netcoreapp3.1\Practica4LayerArchitecture.AssemblyInfoInputs.cache
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\obj\Debug\netcoreapp3.1\Practica4LayerArchitecture.AssemblyInfo.cs
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\obj\Debug\netcoreapp3.1\Practica4LayerArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\obj\Debug\netcoreapp3.1\Practica4LayerArchitecture.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\obj\Debug\netcoreapp3.1\staticwebassets\Practica4LayerArchitecture.StaticWebAssets.Manifest.cache
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\obj\Debug\netcoreapp3.1\staticwebassets\Practica4LayerArchitecture.StaticWebAssets.xml
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\obj\Debug\netcoreapp3.1\scopedcss\bundle\Practica4LayerArchitecture.styles.css
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\obj\Debug\netcoreapp3.1\Practica4LayerArchitecture.RazorTargetAssemblyInfo.cache
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\obj\Debug\netcoreapp3.1\Practica4LayerArchitecture.dll
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\obj\Debug\netcoreapp3.1\Practica4LayerArchitecture.pdb
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\obj\Debug\netcoreapp3.1\Practica4LayerArchitecture.genruntimeconfig.cache
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\bin\Debug\netcoreapp3.1\Logic Layer.dll
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\bin\Debug\netcoreapp3.1\Logic Layer.pdb
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\obj\Debug\netcoreapp3.1\Practica4LayerArchitecture.csproj.CopyComplete

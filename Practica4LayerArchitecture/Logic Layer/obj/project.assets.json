@@ -11,19 +11,6 @@
         "runtime": {
           "bin/placeholder/Database Layer.dll": {}
         }
-      },
-      "Logic Layer/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "dependencies": {
-          "Database Layer": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Logic Layer.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Logic Layer.dll": {}
-        }
       }
     }
   },
@@ -32,16 +19,11 @@
       "type": "project",
       "path": "../Database Layer/Database Layer.csproj",
       "msbuildProject": "../Database Layer/Database Layer.csproj"
-    },
-    "Logic Layer/1.0.0": {
-      "type": "project",
-      "path": "../Logic Layer/Logic Layer.csproj",
-      "msbuildProject": "../Logic Layer/Logic Layer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Logic Layer >= 1.0.0"
+      "Database Layer >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -50,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Acer Aspie 3\\Documents\\CERTIFICACION 1\\PRACTICAS\\cuarta-practica\\Practica4LayerArchitecture\\Practica4LayerArchitecture\\Practica4LayerArchitecture.csproj",
-      "projectName": "Practica4LayerArchitecture",
-      "projectPath": "C:\\Users\\Acer Aspie 3\\Documents\\CERTIFICACION 1\\PRACTICAS\\cuarta-practica\\Practica4LayerArchitecture\\Practica4LayerArchitecture\\Practica4LayerArchitecture.csproj",
+      "projectUniqueName": "C:\\Users\\Acer Aspie 3\\Documents\\CERTIFICACION 1\\PRACTICAS\\cuarta-practica\\Practica4LayerArchitecture\\Logic Layer\\Logic Layer.csproj",
+      "projectName": "Logic Layer",
+      "projectPath": "C:\\Users\\Acer Aspie 3\\Documents\\CERTIFICACION 1\\PRACTICAS\\cuarta-practica\\Practica4LayerArchitecture\\Logic Layer\\Logic Layer.csproj",
       "packagesPath": "C:\\Users\\Acer Aspie 3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Acer Aspie 3\\Documents\\CERTIFICACION 1\\PRACTICAS\\cuarta-practica\\Practica4LayerArchitecture\\Practica4LayerArchitecture\\obj\\",
+      "outputPath": "C:\\Users\\Acer Aspie 3\\Documents\\CERTIFICACION 1\\PRACTICAS\\cuarta-practica\\Practica4LayerArchitecture\\Logic Layer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer Aspie 3\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,8 +53,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Acer Aspie 3\\Documents\\CERTIFICACION 1\\PRACTICAS\\cuarta-practica\\Practica4LayerArchitecture\\Logic Layer\\Logic Layer.csproj": {
-              "projectPath": "C:\\Users\\Acer Aspie 3\\Documents\\CERTIFICACION 1\\PRACTICAS\\cuarta-practica\\Practica4LayerArchitecture\\Logic Layer\\Logic Layer.csproj"
+            "C:\\Users\\Acer Aspie 3\\Documents\\CERTIFICACION 1\\PRACTICAS\\cuarta-practica\\Practica4LayerArchitecture\\Database Layer\\Database Layer.csproj": {
+              "projectPath": "C:\\Users\\Acer Aspie 3\\Documents\\CERTIFICACION 1\\PRACTICAS\\cuarta-practica\\Practica4LayerArchitecture\\Database Layer\\Database Layer.csproj"
             }
           }
         }
@@ -97,9 +79,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
