@@ -6,7 +6,7 @@ using System.Text;
 
 namespace Database_Layer
 {
-    public class DbContext
+    public class DbContext : IDbContext
     {
         //acceso a la base de datos
         //referencias a las tablas de la base de datos
@@ -26,10 +26,10 @@ namespace Database_Layer
             };
         }
 
-        public Student AddStudent(Student student)
+        public List<Student> AddStudents(List<Student> students)
         {
-            StudentTable.Add(student);
-            return student;
+            StudentTable.AddRange(students);
+            return students;
         }
         public Student UpdateStudent(Student studentToUpdate)
         {

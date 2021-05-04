@@ -15,14 +15,14 @@ namespace Practica4LayerArchitecture.Controllers
     [Route("[/api/students]")]
     public class StudentsController : ControllerBase
     {
-        private readonly StudentManager _studentManager;
-        public StudentsController()
+        private readonly IStudentManager _studentManager;
+        public StudentsController(IStudentManager studentManager)
         {
-            _studentManager = new StudentManager();
+            _studentManager = studentManager;
         }
 
         [HttpPost]
-        public Student CreatePerson([FromBody] string studentName) // a. Create User
+        public List<Student> CreatePerson([FromBody] Student studentName) // a. Create User
         {
             return _studentManager.CreatePerson(studentName);
         }

@@ -10,11 +10,21 @@
         "runtime": {
           "Logic Layer.dll": {}
         }
+      },
+      "Database Layer/1.0.0": {
+        "runtime": {
+          "Database Layer.dll": {}
+        }
       }
     }
   },
   "libraries": {
     "Logic Layer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Database Layer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
