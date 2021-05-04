@@ -22,7 +22,7 @@ namespace Practica4LayerArchitecture.Controllers
         }
 
         [HttpPost]
-        public Student CreatePerson([FromBody] string studentName) // a. Create User
+        public List<Student> CreatePerson([FromBody] Student studentName) // a. Create User
         {
             return _studentManager.CreatePerson(studentName);
         }

@@ -8,7 +8,7 @@ namespace Logic_Layer.Managers
     public interface IStudentManager
     {
         List<Student> GetAllStudents();
-        Student CreatePerson(Student student);
+        List<Student> CreatePerson(Student student);
         Student UpdateStudent(Student student);
         Student DeletePerson(Student student);
     }

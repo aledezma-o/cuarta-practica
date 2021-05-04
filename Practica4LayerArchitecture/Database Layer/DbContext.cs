@@ -26,10 +26,10 @@ namespace Database_Layer
             };
         }
 
-        public Student AddStudent(Student student)
+        public List<Student> AddStudents(List<Student> students)
         {
-            StudentTable.Add(student);
-            return student;
+            StudentTable.AddRange(students);
+            return students;
         }
         public Student UpdateStudent(Student studentToUpdate)
         {

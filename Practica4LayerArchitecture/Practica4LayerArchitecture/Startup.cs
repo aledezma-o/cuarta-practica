@@ -8,9 +8,12 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Microsoft.OpenApi.Models;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Threading.Tasks;
 
 namespace Practica4LayerArchitecture
@@ -29,6 +32,16 @@ namespace Practica4LayerArchitecture
         {
             services.AddTransient<IStudentManager, StudentManager>();
             services.AddSingleton<IDbContext, DbContext>();
+            services.AddSwaggerGen(p =>
+            {
+                p.SwaggerDoc("v3", new OpenApiInfo { Title = "Practice 4 WebAPI", Version = "v3"});
+
+                /*
+                var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+                var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+                p.IncludeXmlComments(xmlPath);
+                */
+            });
             services.AddControllers();
         }
 
@@ -45,6 +58,13 @@ namespace Practica4LayerArchitecture
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseSwagger();
+
+            app.UseSwaggerUI(p =>
+            {
+                p.SwaggerEndpoint("/swagger/v3/swagger.json", "Practica 4");
+            });
 
             app.UseEndpoints(endpoints =>
             {

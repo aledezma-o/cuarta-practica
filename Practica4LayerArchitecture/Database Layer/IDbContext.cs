@@ -7,7 +7,7 @@ namespace Database_Layer
 {
     public interface IDbContext
     {
-        Student AddStudent(Student student);
+        List<Student> AddStudents(List<Student> student);
         Student UpdateStudent(Student studentToUpdate);
         Student DeletePerson(Student studentToDelete);
         List<Student> GetAll();

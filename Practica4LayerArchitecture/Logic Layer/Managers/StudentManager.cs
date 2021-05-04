@@ -21,13 +21,17 @@ namespace Logic_Layer.Managers
             return DTOMappers.MapStudents(students);
         }
 
-        public Student CreatePerson(Student student) // a. Create User
+        public List<Student> CreatePerson(Student student) // a. Create User
         {
             if (String.IsNullOrEmpty(student.Name) || student.Name.Length > 50 || student.AvailableSlots < 0) // Punto 6 practica 4
             {
                 throw new Exception();
             }
-            return student;
+            List<Database_Layer.Models.Student> studentDAO = DTOMappers.MapStudentsDAO(
+                    new List<Student>() { student }
+                );
+            studentDAO = _dbContext.AddStudents(studentDAO);
+            return DTOMappers.MapStudents(studentDAO);
         }
 
         public Student UpdateStudent(Student student) // b. Update User

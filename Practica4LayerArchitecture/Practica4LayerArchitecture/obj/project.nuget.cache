@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "5ktxlzQ/hlAfgTYYerxtO6bCqTZ6MSzrnFx3487fE0OqVb8f2l/NmmdirmmpTgKD687pV/ILUe7dS44SiTrYLg==",
+  "dgSpecHash": "uIMMaoF/4+SopBXdtoFluI+dlWnzQHQooVJMtp4nePYEkuVHDRTw/8cQNsJN4eFYZNSmmkD0WP8ATm3B4717Iw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Acer Aspie 3\\Documents\\CERTIFICACION 1\\PRACTICAS\\cuarta-practica\\Practica4LayerArchitecture\\Practica4LayerArchitecture\\Practica4LayerArchitecture.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer Aspie 3\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Acer Aspie 3\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.3\\swashbuckle.aspnetcore.swagger.6.1.3.nupkg.sha512",
+    "C:\\Users\\Acer Aspie 3\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.3\\swashbuckle.aspnetcore.swaggergen.6.1.3.nupkg.sha512",
+    "C:\\Users\\Acer Aspie 3\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.3\\swashbuckle.aspnetcore.swaggerui.6.1.3.nupkg.sha512"
+  ],
   "logs": []
 }

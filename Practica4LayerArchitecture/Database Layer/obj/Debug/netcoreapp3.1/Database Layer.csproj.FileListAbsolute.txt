@@ -1,7 +1,6 @@
 C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Database Layer\bin\Debug\netcoreapp3.1\Database Layer.deps.json
 C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Database Layer\bin\Debug\netcoreapp3.1\Database Layer.dll
 C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Database Layer\bin\Debug\netcoreapp3.1\Database Layer.pdb
-C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Database Layer\obj\Debug\netcoreapp3.1\Database Layer.csprojAssemblyReference.cache
 C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Database Layer\obj\Debug\netcoreapp3.1\Database Layer.AssemblyInfoInputs.cache
 C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Database Layer\obj\Debug\netcoreapp3.1\Database Layer.AssemblyInfo.cs
 C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Database Layer\obj\Debug\netcoreapp3.1\Database Layer.csproj.CoreCompileInputs.cache

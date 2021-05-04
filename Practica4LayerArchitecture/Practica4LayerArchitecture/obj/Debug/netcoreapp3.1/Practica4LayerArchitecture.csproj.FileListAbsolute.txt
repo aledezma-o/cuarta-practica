@@ -23,3 +23,8 @@ C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practi
 C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\obj\Debug\netcoreapp3.1\Practica4LayerArchitecture.csproj.CopyComplete
 C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\bin\Debug\netcoreapp3.1\Database Layer.dll
 C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\bin\Debug\netcoreapp3.1\Database Layer.pdb
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\obj\Debug\netcoreapp3.1\Practica4LayerArchitecture.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Practica4LayerArchitecture\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
