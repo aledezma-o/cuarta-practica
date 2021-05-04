@@ -7,3 +7,6 @@ C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practi
 C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Logic Layer\obj\Debug\netcoreapp3.1\Logic Layer.csproj.CoreCompileInputs.cache
 C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Logic Layer\obj\Debug\netcoreapp3.1\Logic Layer.dll
 C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Logic Layer\obj\Debug\netcoreapp3.1\Logic Layer.pdb
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Logic Layer\bin\Debug\netcoreapp3.1\Database Layer.dll
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Logic Layer\bin\Debug\netcoreapp3.1\Database Layer.pdb
+C:\Users\Acer Aspie 3\Documents\CERTIFICACION 1\PRACTICAS\cuarta-practica\Practica4LayerArchitecture\Logic Layer\obj\Debug\netcoreapp3.1\Logic Layer.csproj.CopyComplete
